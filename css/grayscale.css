@@ -163,7 +163,7 @@
 .carousel-item-next,
 .carousel-item-prev {
   display: block;
-  transition-delay: 5s;
+
 }
 
 .carousel-item-next:not(.carousel-item-left),
